@@ -1,0 +1,13 @@
+/** @format */
+
+.links-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+li {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+}

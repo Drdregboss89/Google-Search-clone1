@@ -1,0 +1,17 @@
+/** @format */
+
+.links-wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+ul {
+  display: flex;
+  margin: 10px;
+}
+li {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+}
